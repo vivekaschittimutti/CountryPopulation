@@ -62,3 +62,23 @@
 .rowContainer {
     padding-left: 10px;
 }
+
+.countryContainer {
+    background-color: #B2BEB5;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.image {
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+}
+
+.countryName {
+    font-size: 20px;
+}
+
+.subContainer {
+    padding: 10px;
+}
